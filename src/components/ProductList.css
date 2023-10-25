@@ -1,0 +1,17 @@
+table {
+  border: 2px solid grey;
+}
+
+th {
+  border: 2px solid grey;
+}
+
+td {
+  border: 2px solid grey;
+}
+
+.btn {
+  background-color: grey;
+  border: none;
+  margin: 10px;
+}

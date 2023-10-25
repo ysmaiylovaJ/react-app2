@@ -1,0 +1,25 @@
+{
+  "products": [
+    {
+      "title": "Tilek",
+      "description": "Taalaibekov",
+      "imageUrl": "tilek@gmail.com",
+      "price": "12345678",
+      "id": 1
+    },
+    {
+      "title": "new",
+      "description": "product",
+      "imageUrl": "product@gmail.com",
+      "price": "234",
+      "id": 2
+    },
+    {
+      "title": "Сатору",
+      "description": "Gojo",
+      "imageUrl": "gojo@gmail.com",
+      "price": "123",
+      "id": 3
+    }
+  ]
+}
